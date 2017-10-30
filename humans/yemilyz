@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>Hello, world!<html>
+  <head>
+    <title>Hello, world.</title>
+    
+    <style>
+      body {
+        font-family: courier, monospace;
+        padding: 10% 15px;
+        text-align: center;
+        font-size: 13px;
+        line-height: 1.65em;
+      }
+    </style>
+  </head>
+
+  <body>
+    Hi, this is yemilyz!<br><br>
+  </body>
+</html></h1>
+
+</body>
+</html>
